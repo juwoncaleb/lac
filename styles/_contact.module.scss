@@ -1,0 +1,86 @@
+.contact_inout {
+    height: 40px;
+    border: 1px solid black;
+    width: 75%;
+}
+
+.con_messag {
+    height: 80px;
+    border: 1px solid black;
+    width: 75%;
+}
+
+.con_messag {
+    height: 100px;
+}
+
+.sub_cont {
+    color: white;
+    background-color: black;
+    width: 75%;
+    height: 45px;
+    margin-top: 20px;
+}
+
+.talk {
+    background-image: url('/talk.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    z-index: 1;
+    padding-top: 70px;
+    width: 100%;
+}
+.maa{
+  margin-right: 50px;
+}
+.card {
+    background-color: #041C2C;
+   
+    padding: 28px 20px 40px;
+    margin-left: 50px;
+}
+
+.connect_div {
+    max-width: 500px;
+    margin-top: 100px;
+}
+
+.connect {
+    color: var(--black, #000);
+    font-size: 40px;
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    margin-bottom: 25px;
+}
+
+.contact_us_head {
+    color: #000;
+    font-size: 45px;
+    font-family: HK Grotesk;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px;
+    margin-bottom: 30px;
+}
+
+.friend_me {
+    color: #0A0A0A;
+    font-size: 18px;
+    font-family: Optima;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.con_headers {
+    color: var(--black, #000);
+    font-size: 16px;
+    font-family: Optima;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    margin-top: 20px;
+}

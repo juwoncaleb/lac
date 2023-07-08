@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    border: 0;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header {
+    background-color: rgb(32, 32, 32);
+    color: white;
+    height: 100px;
+    font-family: 'Kanit', sans-serif;}
+
+
+.logo {
+    height: 50px;
+}
+.logos{
+    margin-right: 30%;
+}
+.arrow {
+    height: 23px;
+    transform: rotate(40deg);
+    margin-top: 40px;
+}
+
+
+.hero_text_sub{
+    margin-left: 5%;
+}
+.vl {
+    border-left: 3px solid white;
+    height: 100px;
+    margin-right: 20px;
+}
+.navlink{
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 5%;
+
+}
+#con{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.contactBtn{
+    
+    color: black;
+    height: 100px;
+    background-color: rgb(255,222,159);
+    width: 200px;
+}
